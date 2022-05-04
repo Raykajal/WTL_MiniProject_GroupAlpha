@@ -1,0 +1,6 @@
+com\wtl\controller\EmployeeController.class
+com\wtl\repository\EmployeeRepository.class
+com\wtl\model\Employee.class
+com\wtl\service\EmployeeServiceImpl.class
+com\wtl\service\EmployeeService.class
+com\wtl\SpringbootThymeleafCrudWebAppApplication.class
